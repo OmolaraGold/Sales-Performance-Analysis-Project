@@ -58,6 +58,23 @@ Examining customer feedback or comparing pricing against competitors might offer
 - SQL
 ![SALES DATA PROJECT SQL QUE 7](https://github.com/user-attachments/assets/146a1d97-7ca6-4f15-80b5-4ea7923a53ab)
 
+#### DEDUCTION
+The following can be deduce from the above visuals;
+The South region has the highest total sales with 4.675 millions out of 10.587 millions.
+1. The company might have invested more in marketing efforts in the South region and this could be driving higher sales.
+2.  The prices of the product might be more appealing in the South. Discounts or region-specific offers can increase sales. It would be helpful to examine whether the South has benefited from any price adjustments.
+3.  High turn over in the south might also be as a result of better stock availability and more accessible sales channels.
+4.   Lower competition in the South could be allowing the products to stand out more, contributing to higher sales.
+The west region has the lowest total sales with 1.512 millions out of 10.587 millions. This might be as a result of;
+1. Low purchasing power as a result of higher price and fewer discounts in the West region could be reducing sales. More and frequent discount sales can help boost sales in this region.  
+2. If products are less available or there are fewer distribution points in the West, it might make it harder for customers to purchase. More distribution points with regular avaliability of products might help.
+3. If the West region has higher competition with many similar products this could be drawing potential customers away. Analyzing competitor performance and market saturation in the West could reveal if this is a factor.
+4.  If demand is low, this could mean that the products offered aren't resonating with the West region's demographic. Consider whether product adjustments or targeted marketing could align better with this region's interests.
+#### 3. REGION YEARLY SALES
+- PIVOT TABLE
+
+ 
+
 
 
 
