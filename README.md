@@ -82,6 +82,8 @@ The west region has the lowest total sales with 1.512 millions out of 10.587 mil
 
 
 
+
+
  
 
 
