@@ -36,6 +36,8 @@ select * from [dbo].[salesperformance_project]
 ### VISUALIZATION
 #### 1. Total Sales By Product
 - PIVOT TABLE
+ ![image](https://github.com/user-attachments/assets/3cfc1da4-d261-41fd-b280-d4aeebcf2a3d)
+- 
 
 
 
