@@ -1,6 +1,6 @@
 # Sales-Performance-Analysis-Project
 
-### PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE. PROJECT 1
+### PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE. 
 
 ### PROJECT OVERVIEW
 The primary objective of this project is to analyze the sales performance of a retail store to gain insights into top selling product, regional sales distribution, and sales trends over time. By identifying high-performing products, regions with strong or weak sales, this analysis aims to provide data-driven insights that support better decision-making in inventory, marketing, and sales strategy.
@@ -90,6 +90,7 @@ Focusing on marketing and customer engagement strategies may be necessary to rev
 
 ### POWERBI VISUALIZATION
 Below is powerBI dashboard that visualizes the insights found in excel and SQL.
+
 ![SALES DATA  PROJECT VISUAL](https://github.com/user-attachments/assets/3e10087b-3afb-4f6d-adc9-bc83de0ee89a)
 
 
