@@ -31,7 +31,14 @@ Total sales =sum(quantity * unit price)
 ```
 ```sql
 select * from [dbo].[salesperformance_project]
-
-
-### 
 ```
+
+### VISUALIZATION
+#### 1. Total Sales By Product
+- PIVOT TABLE
+
+
+
+
+
+
