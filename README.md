@@ -24,3 +24,14 @@ The data used in this analysis includes:
 - Microsoft Excel [DOWNLOAD HERE](https//www.microsoft.com): For cleaning,analysis,and visualization of data. Pivot tables was use to summarize the data for easy interpretation. Charts were also created for virtual representation.
 - SQL: This is Structured Query Language for Data Quering
 - PowerBI: This is used for Data Visualisation 
+
+### FORMULAR USED
+``` Excel
+Total sales =sum(quantity * unit price)
+```
+```sql
+select * from [dbo].[salesperformance_project]
+
+
+### 
+```
