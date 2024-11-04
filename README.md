@@ -41,6 +41,7 @@ select * from [dbo].[salesperformance_project]
 ![image](https://github.com/user-attachments/assets/ea3836ca-7395-4a1d-ab39-6a9a62c66a51)
 - SQL QUERY
 ![SALES DATA PROJECT SQL QUE 1](https://github.com/user-attachments/assets/74abd1be-e254-4a44-8d5f-2313f2789b1b)
+![SALES DATA PROJECT SQL QUE 3](https://github.com/user-attachments/assets/3f03151c-8599-490c-8852-5deaef47abf9)
 
 #### DEDUCTION
 The following can be deduce;
@@ -72,6 +73,14 @@ The west region has the lowest total sales with 1.512 millions out of 10.587 mil
 4.  If demand is low, this could mean that the products offered aren't resonating with the West region's demographic. Consider whether product adjustments or targeted marketing could align better with this region's interests.
 #### 3. REGION YEARLY SALES
 - PIVOT TABLE
+![image](https://github.com/user-attachments/assets/8bae1070-8e43-4cad-a9e8-2e9f7c55a71d)
+- CHART
+![image](https://github.com/user-attachments/assets/3371fdb0-cd92-4c9f-b2de-0d635315e172)
+![image](https://github.com/user-attachments/assets/bf121fdb-474f-451f-be9d-6f1718234ad9)
+- SQL
+![SALES DATA PROJECT SQL QUE 5](https://github.com/user-attachments/assets/119daf85-69d9-4577-ba08-ce79c29a64e8)
+
+
 
  
 
