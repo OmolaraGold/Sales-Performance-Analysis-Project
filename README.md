@@ -42,6 +42,17 @@ select * from [dbo].[salesperformance_project]
 - SQL QUERY
 ![SALES DATA PROJECT SQL QUE 1](https://github.com/user-attachments/assets/74abd1be-e254-4a44-8d5f-2313f2789b1b)
 
+#### DEDUCTION
+The following can be deduce;
+1. Shoes is of high demand, indicating that customers prioritize footwear over other items. This could mean either the market for shoes is larger or that the brand or style of shoe being sold are most preferred by people.
+2. The marketing around shoes might be stronger. They could be promoted more effectively, either through store layout, advertising, or digital marketing.
+3. The low sales of socks could suggest an opportunity to increase bundle deals or promotions to encourage customers to buy socks along with shoes.
+4. The low sales in socks could also be issues in pricing, stock levels, or even quality perceptions.
+Examining customer feedback or comparing pricing against competitors might offer insights into why socks are underperforming. Offering unique designs, better quality, more advertisment around socks might increase sales.
+#### REGION BY TOTAL SALES
+- PIVOT TABLE
+
+
 
 
 
