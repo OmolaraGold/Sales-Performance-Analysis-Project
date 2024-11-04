@@ -1,6 +1,6 @@
 # Sales-Performance-Analysis-Project
 
-### PROJECT TITLE: SALES PERFORMANCE PROJECT
+### PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE. PROJECT 1
 
 ### PROJECT OVERVIEW
 The primary objective of this project is to analyze the sales performance of a retail store to gain insights into top selling product, regional sales distribution, and sales trends over time. By identifying high-performing products, regions with strong or weak sales, this analysis aims to provide data-driven insights that support better decision-making in inventory, marketing, and sales strategy.
@@ -80,11 +80,19 @@ The west region has the lowest total sales with 1.512 millions out of 10.587 mil
 - SQL
 ![SALES DATA PROJECT SQL QUE 5](https://github.com/user-attachments/assets/119daf85-69d9-4577-ba08-ce79c29a64e8)
 
+#### DEDUCTION
+1. There is a noticeable decline in total revenue across East and South regions from 2023 to 2024. This suggests potential challenges in sales performance or market conditions affecting revenue generation. There is an increase in total revenue across the North and West regions.
+a. East: The East region had the highest revenue in 2023 but shows a significant drop in 2024. This decline may indicate market saturation or increased competition in the region.
+b. South: The revenue for this region appears to have decreased slightly, indicating a potential area of concern which could suggest challenges in maintaining sales. Although it remains one of the higher-performing region.
+c. North and West regions: Both regions show an increase in revenue figures. And more marketing and advertisement is needed to boost more sales revenue in these regions.
+Focusing on marketing and customer engagement strategies may be necessary to revitalize sales in declining regions.
 
 
+### POWERBI VISUALIZATION
+Below is powerBI dashboard that visualizes the insights found in excel and SQL.
+![SALES DATA  PROJECT VISUAL](https://github.com/user-attachments/assets/3e10087b-3afb-4f6d-adc9-bc83de0ee89a)
 
 
- 
 
 
 
