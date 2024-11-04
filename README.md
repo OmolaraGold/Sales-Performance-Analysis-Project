@@ -34,7 +34,7 @@ select * from [dbo].[salesperformance_project]
 ```
 
 ### VISUALIZATION
-#### 1. Total Sales By Product
+#### 1. TOTAL SALES BY PRODUCT
 - PIVOT TABLE
  ![image](https://github.com/user-attachments/assets/3cfc1da4-d261-41fd-b280-d4aeebcf2a3d)
 - CHART
@@ -49,8 +49,18 @@ The following can be deduce;
 3. The low sales of socks could suggest an opportunity to increase bundle deals or promotions to encourage customers to buy socks along with shoes.
 4. The low sales in socks could also be issues in pricing, stock levels, or even quality perceptions.
 Examining customer feedback or comparing pricing against competitors might offer insights into why socks are underperforming. Offering unique designs, better quality, more advertisment around socks might increase sales.
-#### REGION BY TOTAL SALES
+#### 2. REGION BY TOTAL SALES
 - PIVOT TABLE
+![image](https://github.com/user-attachments/assets/f204bb77-b511-46ba-9156-e73288b030ec)
+- CHART
+![image](https://github.com/user-attachments/assets/844e1d71-e9c9-4b88-ada3-51006e657103)
+![image](https://github.com/user-attachments/assets/4f5c9776-da0c-4aea-8dac-f5d30a6697c9)
+- SQL
+![SALES DATA PROJECT SQL QUE 7](https://github.com/user-attachments/assets/146a1d97-7ca6-4f15-80b5-4ea7923a53ab)
+
+
+
+
 
 
 
