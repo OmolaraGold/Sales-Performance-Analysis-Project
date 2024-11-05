@@ -21,7 +21,7 @@ The data used in this analysis includes:
 - Sales Trens: This is the general direction of sales overtime. It helps to understand seasonal impacts and peak.
 
 ### TOOLS USED
-- Microsoft Excel [DOWNLOAD HERE](https//www.microsoft.com): For cleaning,analysis,and visualization of data. Pivot tables was use to summarize the data for easy interpretation. Charts were also created for virtual representation.
+- Microsoft Excel [DOWNLOAD HERE](https//www.microsoft.com): For cleaning,analysing,and visualization of data. Pivot tables was use to summarize the data for easy interpretation. Charts were also created for virtual representation.
 - SQL: This is Structured Query Language for Data Quering
 - PowerBI: This is used for Data Visualisation 
 
@@ -37,10 +37,13 @@ select * from [dbo].[salesperformance_project]
 #### 1. TOTAL SALES BY PRODUCT
 - PIVOT TABLE
  ![image](https://github.com/user-attachments/assets/3cfc1da4-d261-41fd-b280-d4aeebcf2a3d)
+
 - CHART
 ![image](https://github.com/user-attachments/assets/ea3836ca-7395-4a1d-ab39-6a9a62c66a51)
+
 - SQL QUERY
 ![SALES DATA PROJECT SQL QUE 1](https://github.com/user-attachments/assets/74abd1be-e254-4a44-8d5f-2313f2789b1b)
+
 ![SALES DATA PROJECT SQL QUE 3](https://github.com/user-attachments/assets/3f03151c-8599-490c-8852-5deaef47abf9)
 
 #### DEDUCTION
@@ -50,13 +53,17 @@ The following can be deduce;
 3. The low sales of socks could suggest an opportunity to increase bundle deals or promotions to encourage customers to buy socks along with shoes.
 4. The low sales in socks could also be issues in pricing, stock levels, or even quality perceptions.
 Examining customer feedback or comparing pricing against competitors might offer insights into why socks are underperforming. Offering unique designs, better quality, more advertisment around socks might increase sales.
+
 #### 2. REGION BY TOTAL SALES
 - PIVOT TABLE
 ![image](https://github.com/user-attachments/assets/f204bb77-b511-46ba-9156-e73288b030ec)
+
 - CHART
 ![image](https://github.com/user-attachments/assets/844e1d71-e9c9-4b88-ada3-51006e657103)
+
 ![image](https://github.com/user-attachments/assets/4f5c9776-da0c-4aea-8dac-f5d30a6697c9)
-- SQL
+
+- SQL 
 ![SALES DATA PROJECT SQL QUE 7](https://github.com/user-attachments/assets/146a1d97-7ca6-4f15-80b5-4ea7923a53ab)
 
 #### DEDUCTION
@@ -74,17 +81,20 @@ The west region has the lowest total sales with 1.512 millions out of 10.587 mil
 #### 3. REGION YEARLY SALES
 - PIVOT TABLE
 ![image](https://github.com/user-attachments/assets/8bae1070-8e43-4cad-a9e8-2e9f7c55a71d)
+
 - CHART
 ![image](https://github.com/user-attachments/assets/3371fdb0-cd92-4c9f-b2de-0d635315e172)
+
 ![image](https://github.com/user-attachments/assets/bf121fdb-474f-451f-be9d-6f1718234ad9)
+
 - SQL
 ![SALES DATA PROJECT SQL QUE 5](https://github.com/user-attachments/assets/119daf85-69d9-4577-ba08-ce79c29a64e8)
 
 #### DEDUCTION
-1. There is a noticeable decline in total revenue across East and South regions from 2023 to 2024. This suggests potential challenges in sales performance or market conditions affecting revenue generation. There is an increase in total revenue across the North and West regions.
-a. East: The East region had the highest revenue in 2023 but shows a significant drop in 2024. This decline may indicate market saturation or increased competition in the region.
-b. South: The revenue for this region appears to have decreased slightly, indicating a potential area of concern which could suggest challenges in maintaining sales. Although it remains one of the higher-performing region.
-c. North and West regions: Both regions show an increase in revenue figures. And more marketing and advertisement is needed to boost more sales revenue in these regions.
+ There is a noticeable decline in total revenue across East and South regions from 2023 to 2024. This suggests potential challenges in sales performance or market conditions affecting revenue generation. There is an increase in total revenue across the North and West regions.
+1. EAST: The East region had the highest revenue in 2023 but shows a significant drop in 2024. This decline may indicate market saturation or increased competition in the region.
+2. SOUTH: The revenue for this region appears to have decreased slightly from 2023 to 2024, indicating a potential area of concern which could suggest challenges in maintaining sales. Although it remains one of the higher-performing region.
+3. NORTH AND WEST REGION: Both regions show an increase in revenue figures from 2023 to 2024. And more marketing and advertisement is needed to boost more sales revenue in these regions.
 Focusing on marketing and customer engagement strategies may be necessary to revitalize sales in declining regions.
 
 
@@ -93,6 +103,18 @@ Below is powerBI dashboard that visualizes the insights found in excel and SQL.
 
 ![SALES DATA  PROJECT VISUAL](https://github.com/user-attachments/assets/3e10087b-3afb-4f6d-adc9-bc83de0ee89a)
 
+### SQL TABLE AND QUERY
+![SALES DATA PROJECT SQL TABLE](https://github.com/user-attachments/assets/5e88bb74-33c7-4cce-88ed-d3ed7bc6e9a1)
+
+![SALE DATA PROJECT SQL QUERY 1](https://github.com/user-attachments/assets/2568dcab-2300-4f19-8416-df89ea73efc7)
+
+![SALE DATA PROJECT SQL QUERY 2](https://github.com/user-attachments/assets/995f4cae-9f21-457c-871a-2e8eaadc1321)
+
+![SALE DATA PROJECT SQL QUERY 3](https://github.com/user-attachments/assets/e8403c8c-50aa-44eb-8223-61d13c2d155f)
+
+### EXCEL TABLE
+
+![SALES DATA TABLE PROJECT1](https://github.com/user-attachments/assets/6cc65bfc-afc0-4ed5-bdc1-d062b1f6e57d)
 
 
 
